@@ -1,3 +1,2 @@
-Password cracking script
-uploading on github
-by DHIRAJ
+Password caracker in python
+A simple script to check your passwords strength
